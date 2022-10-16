@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        $i =0;
+        $i =8;
         while ($i < 1000){
             echo $i;
             $i++;
